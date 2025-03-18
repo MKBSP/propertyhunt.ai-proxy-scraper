@@ -1,0 +1,17 @@
+
+{
+    "name": "property-scraper-proxy",
+    "version": "1.0.0",
+    "description": "A simple proxy server for property scraping",
+    "main": "index.js",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {
+      "vercel": "^32.5.6"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": ">=18.0.0"
+    }
+  }
